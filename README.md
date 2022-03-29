@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-with-flexbox-grid-cube-css-methodology-H1TeCkbX9)
+- Live Site URL: [Add live site URL here](https://drumstickz-order-component.netlify.app)
 
 ## My process
 
