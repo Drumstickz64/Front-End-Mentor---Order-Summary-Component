@@ -55,6 +55,12 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+
+  /* Styles for the challenge only */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /* A elements that don't have a class get default styles */
@@ -102,12 +108,6 @@ body {
   font-size: var(--fs-400);
   font-weight: var(--fw-medium);
   line-height: 1.6;
-}
-
-/* Styles only for the challenge */
-main {
-  display: grid;
-  place-items: center;
 }
 
 h1,
